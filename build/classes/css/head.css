@@ -1,0 +1,58 @@
+.header {
+	padding: 10px;
+	text-align: center;
+	background: #ebd95a;
+	color: white;
+	font-size: 25px;
+}
+
+.divheader {
+	padding: 20px;
+	background: #d7d3fa;
+	color: black;
+	font-size: 20px;
+	content: "";
+	display: table;
+	clear: both;
+	min-width: 1140px;
+}
+
+.column {
+	float: right;
+	width: 50%;
+	padding: 10px;
+	text-align: center;
+}
+
+.mainbtn{
+	background-color: #fb641b;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.logoutbtn{
+	background-color: #fb641b;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  float: right;
+  font-size: 12px;
+}
+
+
+table {
+    border-collapse: collapse;
+}
+
+tr {
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+​
